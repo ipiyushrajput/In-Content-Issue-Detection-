@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Runtime output directories (created by detector.py)
+logs/
+error_segments/
+segments/

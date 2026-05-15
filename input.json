@@ -1,0 +1,6 @@
+{
+    "audio_directory": "./segments/audio",
+    "video_directory": "./segments/video",
+    "log_directory": "./logs",
+    "error_segment_directory": "./error_segments"
+}
